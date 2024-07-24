@@ -1,6 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
+from pandas import Timestamp
 
 st.set_page_config(layout='wide',
                            page_title="Informe Orientación Profesional",
